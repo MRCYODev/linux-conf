@@ -7,11 +7,14 @@
 - [python](https://www.python.org/)
 - [nvim](https://neovim.io/)
 - [lazygit](https://github.com/jesseduffield/lazygit)
+- [NodeJS](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/)
 
 ### CLI
 - [htop](https://htop.dev/)
 - [ffmpeg](https://www.ffmpeg.org/)
 - [kitty](https://github.com/kovidgoyal/kitty)
+- [fastfetch](https://github.com/fastfetch-cli/fastfetch)
 
 ## Flatpak/Flathub
 - [Flatpak](https://flatpak.org/)
@@ -42,6 +45,7 @@
 - [PeaZip](https://peazip.github.io/)
 - [Pika Backup](https://github.com/pika-backup/pika-backup)
 - [Timeshift](https://github.com/linuxmint/timeshift)
+- [Mullvad VPN](https://mullvad.net/en)
 
 ### Games
 - [Space Cadet Pinball](https://github.com/k4zmu2a/SpaceCadetPinball)
