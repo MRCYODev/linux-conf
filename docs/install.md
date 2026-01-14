@@ -52,9 +52,7 @@ sudo hostnamectl set-hostname namehere
 ## Check here for anything else
 [Fedora Linux Noble Setup](https://github.com/wz790/Fedora-Noble-Setup) - Useful Information
 
-<img src="/docs/images/logos/localsend.ico">
-
-# Localsend Config
+# <img src="/docs/images/logos/localsend.ico"> Localsend Config
 - [Localsend](https://localsend.org/download)
 - Install localsend
 ```cli
