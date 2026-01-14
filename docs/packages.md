@@ -1,5 +1,9 @@
 ## Packages
 
+## Official Repos
+- [dnf](https://packages.fedoraproject.org/) | [Fedora](/docs/install.md)
+- [apt](https://packages.ubuntu.com/) | [apt](https://wiki.debian.org/AptCLI) | Ubuntu/Debian
+
 ### Essentials
 - [git](https://git-scm.com/)
 - [curl](https://curl.se/)
