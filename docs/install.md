@@ -44,15 +44,13 @@ sudo fwupdmgr update
 sudo reboot
 ```
 
-## PC Name
-```cli
-sudo hostnamectl set-hostname namehere
-```
-
 ## Check here for anything else
 [Fedora Linux Noble Setup](https://github.com/wz790/Fedora-Noble-Setup) - Useful Information
 
-# <img src="/docs/images/logos/localsend.ico" style="width:16px; height:16px;"> Localsend Config
+
+# Applications configuration
+
+## <img src="/docs/images/logos/localsend.ico" style="width:32px; height:32px;"> Localsend Config
 - [Localsend](https://localsend.org/download)
 - Install localsend
 ```cli
@@ -64,8 +62,22 @@ flatpak run org.localsend.localsend_app
 ```cli
 sudo systemctl status firewalld
 ```
+- - apply Localsend ports
 ```cli
 sudo firewall-cmd --permanent --add-port=53317/tcp
 sudo firewall-cmd --permanent --add-port=53317/udp
 sudo firewall-cmd --reload
 ```
+
+## Visual Studio Code Config
+- [profile](/docs/vs-code/mrcyo-vsc.code-profile)
+
+## Browser Configurations
+- [Firefox](/docs/browser-conf/firefox.md)
+- [Vivaldi](/docs/browser-conf/vivaldi.md)
+- [Brave](/docs/browser-conf/brave.md)
+
+## Wallpapers
+- [local](#) <!--coming soon-->
+- [Wallhaven](https://wallhaven.cc/)
+- [Wallpaper Abyss](https://wall.alphacoders.com/)
