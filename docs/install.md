@@ -83,9 +83,9 @@ sudo firewall-cmd --reload
 - [Wallpaper Abyss](https://wall.alphacoders.com/)
 
 ## Rustdesk
-[Website](https://rustdesk.com/)
-[Github](https://github.com/rustdesk/rustdesk)
-[Config](#)
+- [Website](https://rustdesk.com/)
+- [Github](https://github.com/rustdesk/rustdesk)
+- [Config](#)
 
 ## Discord Config
 [vencord-back](/docs/vencord/)
