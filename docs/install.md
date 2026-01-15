@@ -81,3 +81,11 @@ sudo firewall-cmd --reload
 - [local](#) <!--coming soon-->
 - [Wallhaven](https://wallhaven.cc/)
 - [Wallpaper Abyss](https://wall.alphacoders.com/)
+
+## Rustdesk
+[Website](https://rustdesk.com/)
+[Github](https://github.com/rustdesk/rustdesk)
+[Config](#)
+
+## Discord Config
+[vencord-back](/docs/vencord/)

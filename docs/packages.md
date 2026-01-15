@@ -50,6 +50,7 @@
 - [Pika Backup](https://github.com/pika-backup/pika-backup)
 - [Timeshift](https://github.com/linuxmint/timeshift)
 - [Mullvad VPN](https://mullvad.net/en)
+- [Rustdesk](https://rustdesk.com/)
 
 ### Games
 - [Space Cadet Pinball](https://github.com/k4zmu2a/SpaceCadetPinball)
