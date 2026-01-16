@@ -90,4 +90,4 @@ sudo firewall-cmd --reload
 ## Discord Config
 [vencord-back](/docs/vencord/)
 
-//*moreconfigs coming soon*//
+<!-- more configs coming soon -->
