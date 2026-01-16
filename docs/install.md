@@ -78,7 +78,7 @@ sudo firewall-cmd --reload
 - [Brave](/docs/browser-conf/brave.md)
 
 ## Wallpapers
-- [local](#) <!--coming soon-->
+- [local](/docs/images/wallpapers/) <!--coming soon-->
 - [Wallhaven](https://wallhaven.cc/)
 - [Wallpaper Abyss](https://wall.alphacoders.com/)
 
