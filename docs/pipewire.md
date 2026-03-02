@@ -5,8 +5,9 @@ Make the folder
 mkdir -p ~/.config/pipewire/pipewire.conf.d
 ```
 ---
+Use nano or vim
 ```
-vim ~/.config/pipewire/pipewire.conf.d/10-rate.conf
+nano ~/.config/pipewire/pipewire.conf.d/10-rate.conf
 ```
 
 Config settings.
