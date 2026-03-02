@@ -1,4 +1,4 @@
-# Pipewire Settings
+# Pipewire conf
 
 Make the folder
 ```
