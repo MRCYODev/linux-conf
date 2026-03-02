@@ -10,7 +10,7 @@ Use nano or vim
 nano ~/.config/pipewire/pipewire.conf.d/10-rate.conf
 ```
 
-Config settings.
+Config settings
 ```
 context.properties = {  
    default.clock.rate = 96000  
@@ -18,3 +18,9 @@ context.properties = {
 }
 ```
 
+Restart PipeWire services
+```
+systemctl --user restart pipewire pipewire-pulse wireplumber
+```
+
+Done
