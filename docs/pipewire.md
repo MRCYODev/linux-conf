@@ -22,5 +22,17 @@ Restart PipeWire services
 ```
 systemctl --user restart pipewire pipewire-pulse wireplumber
 ```
+---
 
-Done
+# Elisa music player Fix
+```
+nano ~/.config/plasma-workspace/env/qt-audio-fix.sh
+```
+```
+#!/bin/bash
+export QT_AUDIO_BACKEND=pulseaudio
+```
+```
+chmod +x ~/.config/plasma-workspace/env/qt-audio-fix.sh
+```
+
