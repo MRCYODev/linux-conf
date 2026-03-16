@@ -51,6 +51,7 @@
 - [Timeshift](https://github.com/linuxmint/timeshift)
 - [Mullvad VPN](https://mullvad.net/en)
 - [Rustdesk](https://rustdesk.com/)
+- [QEMU](https://www.qemu.org/)
 
 ### Games
 - [Space Cadet Pinball](https://github.com/k4zmu2a/SpaceCadetPinball)
@@ -86,3 +87,8 @@
 - [Falling Snow Animated Theme](https://addons.mozilla.org/en-US/firefox/addon/falling-snow-animated-theme/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 - [Nighttime Stars Animated Theme](https://addons.mozilla.org/en-US/firefox/addon/nighttime-stars-animated-theme/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 - [Purple Night Theme](https://addons.mozilla.org/en-US/firefox/addon/purple-night-theme/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+
+### Useful Websites
+- [FMHY](https://fmhy.net/) - [Github](https://github.com/fmhy)
+- [Alternativeto](https://alternativeto.net/)
+- [Privacy Guides](https://www.privacyguides.org/)
